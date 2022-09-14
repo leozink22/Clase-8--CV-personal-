@@ -1,0 +1,23 @@
+h1 {
+    color: aqua ;
+}
+
+a{
+    color:deepskyblue;
+    font-size: 19px;
+}
+
+p{
+    color: white ;
+    font-size: 19px;
+}
+
+h2{
+    color: moccasin; 
+    text-decoration: underline;
+}
+
+li{color: white;}
+
+
+footer{text-align: center;}
